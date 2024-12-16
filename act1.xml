@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productes>
+    <!-- Primer producte -->
+    <producte numero="book01">
+        <nom>El Senyor dels Anells</nom>
+        <descriptio>Una història de fantasia escrita per J.R.R. Tolkien</descriptio>
+        <preu moneda="€">20.99</preu>
+        <categoria>Ficció</categoria>
+        <disponibilitat>En estoc</disponibilitat>
+        <imatge>https://example.com/images/senyor_dels_anells.jpg</imatge>
+    </producte>
+
+    <!-- Segon producte -->
+    <producte numero="book02">
+        <nom>Harry Potter i la Pedra Filosofal</nom>
+        <descriptio>El primer llibre de la famosa sèrie de fantasia escrita per J.K. Rowling.</descriptio>
+        <preu moneda="€">14.99</preu>
+        <category>Ficció/Fantasia Juvenil</category>
+        <disponibilitat>Esgotat</disponibilitat>
+        <imatge>https://example.com/images/harry_potter1.jpg</imatge>
+    </producte>
+</productes>
