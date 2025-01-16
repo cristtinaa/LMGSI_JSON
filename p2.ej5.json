@@ -1,0 +1,84 @@
+{
+  "pokemons": [
+    {
+      "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/7/77/latest/20150621181250/Pikachu.png",
+      "id": 25,
+      "nombre": "Pikachu",
+      "tipus": "Pokémon Eléctric",
+      "pes": "6,0 kg",
+      "altura": "0,40 m",
+      "estadístiques": {
+        "velocitat": 4,
+        "fortalesa": 4,
+        "precisio": 4,
+        "resistencia": 4
+      },
+      "moviments": [
+        {
+          "nom": "Impactrueno",
+          "descripcio": "moviment de tipus electric",
+          "potencia": 40,
+          "contacte": false
+        },
+        {
+          "nom": "Atac rapid",
+          "descripcio": "moviment a velocitat del raig",
+          "potencia": 40,
+          "contacte": true
+        }
+      ],
+      "evolucions": [
+        {
+          "nom": "Raichu",
+          "id": 26,
+          "evoluciona": "pedra tro"
+        },
+        {
+          "nom": "Raichu de alola",
+          "id": 260,
+          "evoluciona": "pedra tro"
+        }
+      ]
+    },
+    {
+      "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/4/43/latest/20190406170624/Bulbasaur.png",
+      "id": 1,
+      "nombre": "Bulbasaur",
+      "tipus": "Pokémon Planta/Veneno",
+      "pes": "6,9 kg",
+      "altura": "0,70 m",
+      "estadistiques": {
+        "velocitat": 3,
+        "fortalesa": 3,
+        "precisio": 4,
+        "resistencia": 4
+      },
+      "moviments": [
+        {
+          "nom": "Látigo cepa",
+          "descripció": "moviment de tipus planta",
+          "potència": 45,
+          "contacte": true
+        },
+        {
+          "nom": "Pols verí",
+          "descripcio": "moviment de tipus verí",
+          "potencia": null,
+          "contacte": false
+        }
+      ],
+      "evolucions": [
+        {
+          "nom": "Ivysaur",
+          "id": 2,
+          "evoluciona": "nivell 16"
+        },
+        {
+          "nom": "Venusaur",
+          "id": 3,
+          "evoluciona": "nivell 32"
+        }
+      ]
+    }
+  ]
+}
