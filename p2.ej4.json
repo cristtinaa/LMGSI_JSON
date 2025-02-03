@@ -24,11 +24,14 @@
                     "currency": "$",
                     "value": 1949
                 },
-                "slogan": "We've proposed 2 slogans: \"Slimbook Titan: Unleash Power in Every Pixel\" OR \"Slimbook Titan: Powerhouse Performance\""
+                "slogan": {
+                    "slogan1": "Slimbook Titan: Unleash Power in Every Pixel",
+                    "slogan2": "Slimbook Titan: Powerhouse Performance"
+                }
             },
             {
                 "type": "tablet",
-                "name": "Matepad",
+                "name": "Matepad", 
                 "company": "Huawei",
                 "inches": 10.4,
                 "stock": false,
